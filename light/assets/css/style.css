@@ -1072,7 +1072,7 @@ a:active {
   }
   .site-header:not(.dsn-hamburger) ul.primary-nav li.has-sub-menu:hover > ul,
   .site-header:not(.dsn-hamburger) ul.primary-nav li.has-sub-menu:focus > ul {
-    opacity: 1;
+    opacity: 0;
     transform: none;
     visibility: visible;
   }
@@ -1318,6 +1318,7 @@ a:active {
   visibility: hidden;
   transform: var(--animate-trans);
 }
+
 .site-header.dsn-hamburger #navbar_toggle:hover:not(.open) .text-open .char,
 .site-header.dsn-hamburger #navbar_toggle:hover.open .text-close .char {
   opacity: 1;
@@ -7458,4 +7459,9 @@ body.tax-product_cat #dsn_header {
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 2px;
+}
+
+.toggle-text {
+  font-weight: 600;
+  color: #37518d;
 }
