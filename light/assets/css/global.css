@@ -643,6 +643,10 @@ h6,
   line-height: calc(var(--title-heading) + 10px);
   letter-spacing: 2px;
 }
+span.slogan {
+  font-size: 4rem;
+  font-weight: 550;
+}
 
 .sm-title-block {
   letter-spacing: 2px;
