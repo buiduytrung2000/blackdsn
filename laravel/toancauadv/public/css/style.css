@@ -7481,7 +7481,7 @@ body.tax-product_cat #dsn_header {
 }
 
 .elementor-3651 .elementor-element.elementor-element-0ff3d95 {
-    padding: 160px 0px 120px 0px;
+    padding: 100px 0px 120px 0px;
 }
 .elementor-element {
     --widgets-spacing: 20px;
@@ -7497,7 +7497,9 @@ body.tax-product_cat #dsn_header {
 .elementor-section {
     position: relative;
 }
-.elementor-element h1 {
+.elementor-element h1,
+.elementor-element h2,
+.elementor-element h3 {
     color: #000;
     font-family: "Roboto";
     font-weight: 600;
@@ -7508,5 +7510,29 @@ h1.title.dsn-heading-title.d-inline-block.p-relative.right {
 }
 p.dsn-heading-title.d-inline-block.p-relative {
     font-size: 1.5rem;
+    text-align: center;
+}
+.elementor-3651 .elementor-element.elementor-element-6ebfc3c0,
+.elementor-3651
+    .elementor-element.elementor-element-6ebfc3c0
+    > .elementor-background-overlay {
+    border-radius: 7px 7px 7px 7px;
+    border: 2px solid #ffe4c4;
+}
+.elementor-3651 .elementor-element.elementor-element-6ebfc3c0 {
+    margin-top: -160px;
+    margin-bottom: 0px;
+}
+h3.title-block-lg.dsn-heading-title.d-inline-block.p-relative {
+    color: #000;
+}
+.elementor-widget-wrap.elementor-element-populated .text {
+    text-align: center;
+}
+img.has-bigger-scale.cover-bg-img.has-direction {
+    object-position: top;
+}
+.elementor-3651 .elementor-element.elementor-element-61f966f .section-title {
+    justify-content: center;
     text-align: center;
 }

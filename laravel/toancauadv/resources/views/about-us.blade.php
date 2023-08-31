@@ -57,7 +57,7 @@
                                                     <img src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
                                                         class="has-bigger-scale cover-bg-img has-direction"
                                                         data-dsn-speed="30%"
-                                                        data-dsn-src='//dsngrid.com/blackdsn/wp-content/uploads/sites/11/2022/08/1-5.jpg'
+                                                        data-dsn-src='{{ URL::asset('storage/bigstock.jpg') }}'
                                                         alt='' />
                                                 </div>
 
@@ -79,15 +79,14 @@
                                                 <div data-dsn-animate="section"
                                                     class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-638abdc8 background-transparent"
                                                     data-id="638abdc8" data-element_type="column">
-                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                    <div class="elementor-widget-wrap elementor-element-populated text">
                                                         <div class="elementor-element elementor-element-5152c4d7 elementor-align-center background-transparent elementor-widget elementor-widget-dsn_heading"
                                                             data-id="5152c4d7" data-element_type="widget"
                                                             data-widget_type="dsn_heading.default">
                                                             <div class="elementor-widget-container">
                                                                 <h3
                                                                     class="title-block-lg dsn-heading-title d-inline-block p-relative dsn-up    ">
-                                                                    Help Millions To Bring <br>There Creative
-                                                                    Projects To Life </h3>
+                                                                    Biển tấm lớn </h3>
                                                             </div>
                                                         </div>
                                                         <div class="elementor-element elementor-element-61fd17ea elementor-align-center background-transparent elementor-widget elementor-widget-dsn_heading"
@@ -96,13 +95,13 @@
                                                             <div class="elementor-widget-container">
                                                                 <p
                                                                     class="dsn-heading-title d-inline-block p-relative dsn-up    ">
-                                                                    We were thoughtful about presenting these in a
-                                                                    way where we could also tell the story of the
-                                                                    individual.. It is a long established fact that
-                                                                    a reader will be distracted by the readable
-                                                                    content of a page when looking at its layout.
-                                                                    The point of using Lorem Ipsum is that it has a
-                                                                    more-or-less normal distribution of letters.</p>
+                                                                    Pano Quảng cáo rất khác biệt với các loại hình quảng cáo
+                                                                    khác,bởi quảng cáo ngoài trời là một loại hình quảng cáo
+                                                                    mang tính chất "cưỡng chế tự nhiên", do đó khách hàng
+                                                                    không thể tắt hay chuyển kênh như truyền hình, Radio hay
+                                                                    quảng cáo mạng.Quảng cáo tấm lớn hiển thị liên tục và
+                                                                    lặp lại hàng ngày nên dễ dàng đi sâu vào tâm trí khách
+                                                                    hàng.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -132,7 +131,7 @@
                                                         </p>
                                                         <h2
                                                             class="title-h2 dsn-heading-title p-relative title-block-lg d-block    heading-color">
-                                                            <span>Let’s Check Our Services
+                                                            <span>DỊCH VỤ CHÚNG TÔI CUNG CẤP
                                                             </span>
                                                         </h2>
                                                     </div>
